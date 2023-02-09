@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Подключение к серверу
+Type=Application
+NoDisplay=false
+Exec=/home/iskra/termlogin-zen-2.6.sh
+Hidden=false
+Terminal=false
+StartupNotify=false
