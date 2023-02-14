@@ -3,7 +3,7 @@
 # Change SCREEN on Two monitors 
 #
 
-montype=~/Screen_types_xrandr
+montype=$HOME/Screen_types_xrandr
 MONTYPE='(DVI|VGA|HDMI|DP)'
 
 MONITOR1=(VGA-1)
